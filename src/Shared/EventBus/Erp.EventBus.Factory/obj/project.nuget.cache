@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruc9g/g1NMvL0zoLvpaK+UaaAodM0Hly2yTc6gjtYwQrlSV7jZmhR1jn03sAkX7z1+vAHfHztWE7kF3XXp4TDQ==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Tests/erp-with-microservice/src/Erp.Core/EventBus/Erp.EventBus.Factory/Erp.EventBus.Factory.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

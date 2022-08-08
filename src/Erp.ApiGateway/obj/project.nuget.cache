@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4B2WxN5Iin1v4K2l+IEh4J6yqFbliLFP5k5zCnKmVQZQITw7c/bWnlhHm4NZ6J9HzNslJ5JRJ3Hw+/xcv8xmwA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Tests/erp-with-microservice/src/ApiGateways/Erp.ApiGateway/Erp.ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mac/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
