@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "vQTwKw2UIMpyxdobzxUtyHqoJ5ItPC4evjeVafdo0ooUWrvYD8k6//4SOVdvAmiQ+G8xzsVKVdXGhCIlaordPg==",
-  "success": true,
-  "projectFilePath": "/Users/mac/Tests/erp-with-microservice/src/Erp.Core/EventBus/Erp.EventBus.RabbitMQ/Erp.EventBus.RabbitMQ.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
